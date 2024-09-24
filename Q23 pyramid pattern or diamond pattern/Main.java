@@ -1,4 +1,4 @@
-package Q23;
+// pyramid pattern or diamond pattern
 
 public class Main {
     public static void main(String[] args) {
