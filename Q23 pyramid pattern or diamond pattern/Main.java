@@ -2,7 +2,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        int n = 3; // Number of rows for the top half (excluding the middle row)
+        int n = 3; 
         // top half
         for (int i = 1; i <= n; i++) {
             // Space
